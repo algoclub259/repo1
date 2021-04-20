@@ -1,3 +1,3 @@
 # repo1
 
-Just Checking, aka "Hello Word"
+Juss Checking, aka "Hello Word"
